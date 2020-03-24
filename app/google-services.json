@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819434869257",
+    "firebase_url": "https://viducall-95720.firebaseio.com",
+    "project_id": "viducall-95720",
+    "storage_bucket": "viducall-95720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819434869257:android:83634639d6b7bda33e5ed8",
+        "android_client_info": {
+          "package_name": "com.example.viducall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819434869257-fg0e1f6ieibv9nlecmrq8nb87cl2q2ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7kloqVtBoBEdQgVpfiyo-923-9AIrrig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819434869257-fg0e1f6ieibv9nlecmrq8nb87cl2q2ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
